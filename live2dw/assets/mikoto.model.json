@@ -1,9 +1,9 @@
 {
   "version": "Live2DViewerEX Config 1.0",
-  "model": "index.moc",
+  "model": "mikoto.moc",
   "textures": [
-    "index.1024/texture_00.png",
-    "index.1024/texture_01.png"
+    "mikoto.1024/texture_00.png",
+    "mikoto.1024/texture_01.png"
   ],
   "layout": {
     "center_x": 0.0,
@@ -14,6 +14,21 @@
     "tap": [
       {
         "file": "motions/tap/motion1.mtn"
+      },
+      {
+        "file": "motions/tap/motion10.mtn"
+      },
+      {
+        "file": "motions/tap/motion11.mtn"
+      },
+      {
+        "file": "motions/tap/motion12.mtn"
+      },
+      {
+        "file": "motions/tap/motion13.mtn"
+      },
+      {
+        "file": "motions/tap/motion14.mtn"
       },
       {
         "file": "motions/tap/motion2.mtn"
@@ -32,6 +47,12 @@
       },
       {
         "file": "motions/tap/motion7.mtn"
+      },
+      {
+        "file": "motions/tap/motion8.mtn"
+      },
+      {
+        "file": "motions/tap/motion9.mtn"
       }
     ]
   },
