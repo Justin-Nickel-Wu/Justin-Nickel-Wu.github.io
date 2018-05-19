@@ -94,7 +94,7 @@
 
 	#intro {
 		color: #ffffff;
-		padding: 8rem 4rem 6rem 4rem ;
+		padding: 8rem 40rem 6rem 4rem ;
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
@@ -208,7 +208,8 @@
 			font-size: 1.5rem;
 			font-style: italic;
 			margin-top: -0.25rem;
-			text-align: center;
+			margin-left: 0rem;
+			text-align: left;
 		}
 
 		#intro + #header {
